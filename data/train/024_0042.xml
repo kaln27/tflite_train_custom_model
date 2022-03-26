@@ -1,0 +1,27 @@
+<annotation>
+    <folder>right_turn</folder>
+    <filename>024_0042.jpg</filename>
+    <path>D:\Document\traffic sign detect\archive\data\024_0042.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>100</width>
+        <height>94</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>right_turn</name>
+        <pose>Unspecified</pose>
+        <type>rect</type>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>12</xmin>
+            <ymin>8</ymin>
+            <xmax>87</xmax>
+            <ymax>82</ymax>
+        </bndbox>
+    </object>
+</annotation>

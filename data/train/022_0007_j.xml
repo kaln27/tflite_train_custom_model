@@ -1,0 +1,27 @@
+<annotation>
+    <folder>left_turn</folder>
+    <filename>022_0007_j.jpg</filename>
+    <path>D:\Document\traffic sign detect\archive\data\022_0007_j.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>207</width>
+        <height>187</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>left_turn</name>
+        <pose>Unspecified</pose>
+        <type>rect</type>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>29</ymin>
+            <xmax>159</xmax>
+            <ymax>162</ymax>
+        </bndbox>
+    </object>
+</annotation>

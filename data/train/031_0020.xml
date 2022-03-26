@@ -1,0 +1,27 @@
+<annotation>
+    <folder>u_turn</folder>
+    <filename>031_0020.jpg</filename>
+    <path>D:\Document\traffic sign detect\archive\data\031_0020.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>279</width>
+        <height>257</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>u_turn</name>
+        <pose>Unspecified</pose>
+        <type>rect</type>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>0</ymin>
+            <xmax>230</xmax>
+            <ymax>222</ymax>
+        </bndbox>
+    </object>
+</annotation>

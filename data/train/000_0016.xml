@@ -1,0 +1,27 @@
+<annotation>
+    <folder>speed_limit_5</folder>
+    <filename>000_0016.jpg</filename>
+    <path>D:\Document\traffic sign detect\archive\data\000_0016.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>94</width>
+        <height>87</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>speed_limit_5</name>
+        <pose>Unspecified</pose>
+        <type>rect</type>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>10</ymin>
+            <xmax>82</xmax>
+            <ymax>73</ymax>
+        </bndbox>
+    </object>
+</annotation>

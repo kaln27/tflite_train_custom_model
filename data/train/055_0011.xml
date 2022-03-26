@@ -1,0 +1,27 @@
+<annotation>
+    <folder>no_entry</folder>
+    <filename>055_0011.jpg</filename>
+    <path>D:\Document\traffic sign detect\archive\data\055_0011.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>181</width>
+        <height>164</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>no_entry</name>
+        <pose>Unspecified</pose>
+        <type>rect</type>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>27</xmin>
+            <ymin>23</ymin>
+            <xmax>146</xmax>
+            <ymax>141</ymax>
+        </bndbox>
+    </object>
+</annotation>
